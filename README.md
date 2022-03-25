@@ -1,0 +1,2 @@
+# LearningCG
+Noob learning CG
